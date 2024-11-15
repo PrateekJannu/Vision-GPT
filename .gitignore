@@ -1,3 +1,4 @@
 # Ignore all __pycache__ folders
 __pycache__/
 *.py[cod]
+paligemma-3b-pt-224/
