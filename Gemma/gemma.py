@@ -83,7 +83,7 @@ class GemmaModel(nn.Module):
         hidden_states = inputs_embeds
 
         for layer in self.layers:
-            hidden_states, kv_cache = layer(
+            hidden_states = layer(
                 hidden_states=hidden_states,
                 attention_mask=attention_mask,
                 position_ids=position_ids,
