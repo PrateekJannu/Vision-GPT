@@ -1,10 +1,12 @@
-# Vision-GPT 👁️ Coding a Multi-Modal vision model from scratch 🚀
+# Vision-GPT 👁️ Coding a Multi-Modal vision language model from scratch with NVIDIA Datasheet explanations 🚀
 
 
 Vision-GPT is an attempt to create a model that's not just a chatterbox, but also a keen observer. It's like giving your AI both a silver tongue and eagle eyes, reproduced from scratch from the PaliGemma paper by Google Deepmind!
 
 <div align="center">
   <img src="static/image.png" alt="Vision-GPT Logo">
+  <h1>Vision Language Model Architecture</h1>
+  <img src="static/vision-language-model.png" alt="Vision Language model architecture">
 </div>
 
 1. **Clone this repo** (because, duh!)
