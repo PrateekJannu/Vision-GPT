@@ -1,0 +1,10 @@
+fire
+numpy
+torchvision
+tqdm
+transformers
+torch
+torchaudio
+pillow
+safetensors
+tokenizers
