@@ -2,7 +2,7 @@ from PIL import Image
 import torch
 import fire
 
-from processing_paligemma import PaliGemmaProcessor
+from PaliGemma.processing_paligemma import PaliGemmaProcessor
 from KV_Cache.kv_cache import KVCache
 from PaliGemma import PaliGemmaForConditionalGeneration
 from utils import load_hf_model
