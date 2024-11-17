@@ -3,7 +3,7 @@
 
 Vision-GPT is an attempt to create a model that's not just a chatterbox, but also a keen observer. It's like giving your AI both a silver tongue and eagle eyes, reproduced from scratch from the PaliGemma paper by Google Deepmind!
 
-![Vision-GPT Logo](static\image.png)
+![Vision-GPT Logo](static/image.png)
 
 1. **Clone this repo** (because, duh!)
    ```bash
